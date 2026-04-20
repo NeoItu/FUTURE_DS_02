@@ -107,3 +107,6 @@ Conclusion
 . Support services and contracts play an important role in retention
 
 The business should focus on early customer experience and long-term plans to reduce churn and improve customer lifetime value
+
+Data Link:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
